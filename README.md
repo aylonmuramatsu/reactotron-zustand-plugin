@@ -1,8 +1,6 @@
 # reactotron-zustand-plugin
 Simple Plugin to monitor states from zustand.
 
-Note: Sorry my 
-
 How install a project:
 ```
 yarn add https://github.com/aylonmuramatsu/reactotron-zustand-plugin.git
