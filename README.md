@@ -38,3 +38,10 @@ name = name of store, this is show on reactotron
 zustand = your store 
 
 <img width="727" alt="Captura de Tela 2023-06-22 às 23 59 47" src="https://github.com/aylonmuramatsu/reactotron-zustand-plugin/assets/28609474/81e12c1f-4d33-4575-930a-14419aa508bf">
+
+
+Don't forget to add the observers!
+
+<img width="602" alt="Captura de Tela 2023-06-23 às 00 09 08" src="https://github.com/aylonmuramatsu/reactotron-zustand-plugin/assets/28609474/90228598-c881-4a77-aca3-23e1c6c47549">
+
+You can watch states by individual or all state using:  "*", "root" , "all"
