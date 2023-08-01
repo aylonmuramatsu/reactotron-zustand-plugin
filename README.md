@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E5NS6KY)
+
 # reactotron-zustand-plugin
 Simple Plugin to monitor states from zustand.
 
