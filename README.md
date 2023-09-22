@@ -16,6 +16,8 @@ npm i https://github.com/aylonmuramatsu/reactotron-zustand-plugin.git --save
 How use?
 Go to file "Reactotron.config.js" or your config reactotron from project, is similar to this file:
 ```js
+import reactotronZustand from "reactotron-plugin-zustand";
+
 Reactotron.setAsyncStorageHandler(AsyncStorage) // AsyncStorage would either come from `react-native` or `@react-native-community/async-storage` depending on where you get it from
   .configure({
     name: 'Name Project',
