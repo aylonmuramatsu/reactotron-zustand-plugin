@@ -35,7 +35,7 @@ Reactotron.setAsyncStorageHandler(AsyncStorage) // AsyncStorage would either com
   .connect(); // let's connect!
 ```
 
-In case , i use two stores:  "useApp" and "useAuth", each your stores should has fields "name" & "zustand"
+In case , i use two stores:  "useApp" and "useAuth", each your stores should has fields "name" & "store"
 
 name = name of store, this is show on reactotron 
 
