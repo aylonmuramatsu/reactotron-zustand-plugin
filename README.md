@@ -27,8 +27,8 @@ Reactotron.setAsyncStorageHandler(AsyncStorage) // AsyncStorage would either com
     //add this line 🙌
     reactotronZustand({
       stores: [
-        { name: 'app', zustand: useApp },
-        { name: 'authentication', zustand: useAuth },
+        { name: 'app', store: useApp },
+        { name: 'authentication', store: useAuth },
       ],
     })
   ) // plus some custom made plugin.
@@ -39,7 +39,7 @@ In case , i use two stores:  "useApp" and "useAuth", each your stores should has
 
 name = name of store, this is show on reactotron 
 
-zustand = your store 
+store = your store 
 
 <img width="727" alt="Captura de Tela 2023-06-22 às 23 59 47" src="https://github.com/aylonmuramatsu/reactotron-zustand-plugin/assets/28609474/81e12c1f-4d33-4575-930a-14419aa508bf">
 
